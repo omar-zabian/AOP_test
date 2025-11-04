@@ -1,0 +1,4 @@
+artist_id,name,birth_year,death_year,nationality,biography,slug,created_at,updated_at
+711d0507-8cc2-4772-8b66-bb27d1881fdc,Vincent van Gogh,1853,1890,Dutch,,vincent-van-gogh,2025-11-01T04:48:40.810025+00:00,2025-11-01T04:48:40.810025+00:00
+edd74991-21ff-4159-bf63-5597a956a405,Claude Monet,1840,1926,French,,claude-monet,2025-11-01T04:48:40.810025+00:00,2025-11-01T04:48:40.810025+00:00
+87c42a32-818b-4d25-94dc-5ddb8811547e,Johannes Vermeer,1632,1675,Dutch,,johannes-vermeer,2025-11-01T04:48:40.810025+00:00,2025-11-01T04:48:40.810025+00:00
